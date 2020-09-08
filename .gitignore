@@ -1,0 +1,10 @@
+\/memory
+
+# Dependency directories
+node_modules/
+
+# ENV Files
+.env
+
+# sonar Scanner
+.scannerwork/
